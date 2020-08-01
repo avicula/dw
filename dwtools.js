@@ -196,7 +196,7 @@ if (window.location.href.indexOf("dreamwidth.org") > -1) {
 #qrformdiv #qrform { padding: 2em !important; border: rgba(204,204,204,.5) 1px solid; }
 #qrformdiv .qr-meta { width: 75px; margin-right: 5px; display: inline-block !important; float: left; }
 #qrformdiv .qr-meta * { height: auto !important; width: 75px !important; display: inline-block !important; }
-#qrformdiv .qr-body { min-width: 270px; display: flex; }
+#qrformdiv .qr-body { min-width: 200px; width: 100%; display: flex; }
 #qrformdiv .ljuser, #qrformdiv #submitmoreopts, #comment-text-quote { display: none !important; }
 #qrformdiv .qr-icon a::after, #qrformdiv .qr-icon button::after { content: none !important; }
 #qrformdiv #randomicon { margin: 0 !important; padding: 0 !important; }
